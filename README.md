@@ -1,1 +1,1 @@
-Implemention of Convolutional neural network on MNIST dataset
+# Implemention of Convolutional neural network on MNIST dataset
